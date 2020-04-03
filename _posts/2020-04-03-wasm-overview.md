@@ -7,4 +7,4 @@ comments: true
 
 # Tổng hợp các bài viết về Webassembly
 
-## [1. Hướng dẫn cài đặt]({% link../wasm/setup.md %})
+## [1. Hướng dẫn cài đặt]({% link wasm/setup.md %})
